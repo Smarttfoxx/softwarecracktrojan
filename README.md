@@ -28,3 +28,8 @@ chmod +rwx programxpatch
 5 - Open and listen to the port in your host (attacker host) using ncat or nc
 
 6 - Run
+
+![image](https://github.com/Smarttfoxx/softwarecracktrojan/assets/140526026/87100563-10fd-4327-bb0e-d1f37985f41f)
+
+![image](https://github.com/Smarttfoxx/softwarecracktrojan/assets/140526026/66bd3c15-f172-4b7f-b15f-26252ed9b844)
+
