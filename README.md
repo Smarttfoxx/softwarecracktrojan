@@ -31,5 +31,5 @@ chmod +rwx programxpatch
 
 ![image](https://github.com/Smarttfoxx/softwarecracktrojan/assets/140526026/87100563-10fd-4327-bb0e-d1f37985f41f)
 
-![image](https://github.com/Smarttfoxx/softwarecracktrojan/assets/140526026/66bd3c15-f172-4b7f-b15f-26252ed9b844)
+![Sem título](https://github.com/Smarttfoxx/softwarecracktrojan/assets/140526026/450d909f-1a69-4cf5-b82f-986c16c4a45a)
 
