@@ -37,5 +37,4 @@ chmod +rwx programxpatch
 # DISCLAIMER
 
 This binarie was created for only study porpuses, it was not and shouldn't be used against any third party without permission.
-<br>
 I am not responsible for any illegal ou bad use of the binarie.
