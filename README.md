@@ -33,3 +33,9 @@ chmod +rwx programxpatch
 
 ![Sem título](https://github.com/Smarttfoxx/softwarecracktrojan/assets/140526026/450d909f-1a69-4cf5-b82f-986c16c4a45a)
 
+
+# DISCLAIMER
+
+This binarie was created for only study porpuses, it was not and shouldn't be used against any third party without permission.
+<br>
+I am not responsible for any illegal ou bad use of the binarie.
