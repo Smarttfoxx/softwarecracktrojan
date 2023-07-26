@@ -1,4 +1,4 @@
-# Trojan - Crack Software
+# Trojan - Cracking Software
 Basic trojan with command and control functionatilies for ubuntu based systems. This trojan was created for study porpuses only.
 
 It emulates a scenario of a binarie that patches/cracks a ficticional legit software called ProgramX but inside has a malware. 
